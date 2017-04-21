@@ -1,3 +1,3 @@
 frog-hello
 ==========
-README text here.
+A Frog Hello World plugin.
